@@ -2,7 +2,7 @@
 
  day1//Day 01: Salary Tax Calculator (10%/15% tax logic).
 
- # i know html, css ,js , i lern react to 
+ # i know html, css ,js , i lern react too 
 
 
  .first i create a html strucher
@@ -20,4 +20,5 @@
 and i use gemini ui desine css for save my time for styling ui 
 
  
+
  # and i lern for youtube / apna college /and code with harry and / tutdedude / and compile.io for ajay suneja
